@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a2ef5b044ba3ec32d3bb697e",
+  "owner": "s38dcff6p",
+  "repo": "page-2d210ef34f9fb8aaf8b489ee",
+  "title": "科学网(v2ray)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2d210ef34f9fb8aaf8b489ee",
+      "a": "科学网(v2ray)",
+      "b": "2027官方最新地址导航",
+      "entity": "科学网(v2ray)",
+      "brand": "科学网(v2ray)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f2560de7fa1bfe0ca31998fa92503044e9306edcdd562bf11fc067116401f987",
+      "content": {
+        "primary_entity": "科学网(v2ray)",
+        "keyword1": "科学网(v2ray)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，科学网(v2ray)面向需要稳定海外网络访问的用户，提供基础版、旗舰版与团队版三种订阅方案。基础版每月100GB流量、支持3台设备，适合轻度使用；旗舰版每月300GB流量、支持5台设备，配备IPLC专线游戏加速优化；团队版每月1000GB流量、支持20台设备，提供VIP专属高带宽节点与企业定制路由。年付方案分别仅需¥150/年、¥350/年、¥850/年，用户可按设备数量、流量需求与使用周期选择合适套餐。",
+          "AI_HERO_SUBTITLE": "科学网(v2ray)多套餐海外加速",
+          "AI_HERO_INTRO": "科学网(v2ray)提供基础版、旗舰版与团队版三种订阅方案，覆盖不同流量、设备数与线路需求。基础版适合轻度单设备用户，旗舰版面向流媒体与游戏场景，团队版满足多设备与高带宽要求。用户可先确认自身设备数量与月流量，再对比年付价格选择订阅。",
+          "AI_VISUAL_TITLE": "科学网(v2ray)套餐按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐适配不同流量",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线优化",
+          "AI_HIGHLIGHT_3": "年付方案降低月度支出",
+          "AI_FEATURES_TITLE": "套餐与设备适配要点",
+          "AI_FEATURES_INTRO": "结合设备数量与使用场景选择对应套餐，能更合理地控制订阅成本。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台，按常用设备数量匹配。",
+          "AI_FEATURE_TITLE_2": "按流量需求选档位",
+          "AI_FEATURE_TEXT_2": "基础版100GB、旗舰版300GB、团队版1000GB，视频与下载较多时选大流量档。",
+          "AI_FEATURE_TITLE_3": "年付与月付对比",
+          "AI_FEATURE_TEXT_3": "基础版年付¥150、旗舰版¥350、团队版¥850，长期使用可选年付。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "科学网(v2ray)的订阅可通过支持相关协议的客户端导入使用，不同系统可选用常见客户端。Windows可选用v2rayN，macOS可选用V2RayX或Qv2ray，Android可选用v2rayNG，iOS可选用Shadowrocket或Kitsunebi，路由器可选用OpenWrt下的相关插件。安装客户端后，将订阅链接导入并更新节点即可。具体兼容性请以客户端文档为准。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_PLANS_INTRO": "基础版¥15/月或¥150/年，旗舰版¥35/月或¥350/年，团队版¥85/月或¥850/年。流量、设备数与线路依次提升，按实际需求选择。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "科学网(v2ray)的订阅配置涉及套餐选择、设备匹配与客户端导入三个环节。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量、月流量和预算，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端版本，确保支持订阅导入与相应协议。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接，更新节点列表后测试连接，按需切换线路。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "科学网(v2ray)支持哪些设备使用？",
+          "AI_FAQ_ANSWER_1": "订阅可在支持相关协议的客户端中导入，Windows、macOS、Android、iOS及部分路由器系统均有常见客户端可选，具体兼容性以客户端文档为准。",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版主要差别是什么？",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB流量、支持3台设备，适合轻度使用；旗舰版每月300GB流量、支持5台设备，并含IPLC专线优化，更适合流媒体和游戏场景。",
+          "AI_FAQ_QUESTION_3": "团队版适合什么情况？",
+          "AI_FAQ_ANSWER_3": "团队版每月1000GB流量、支持20台设备，提供VIP专属高带宽节点和企业定制路由，适合多人协作或对带宽要求较高的团队。",
+          "AI_FAQ_QUESTION_4": "年付比月付划算吗？",
+          "AI_FAQ_ANSWER_4": "基础版年付¥150相当于每月约¥12.5，旗舰版年付¥350相当于每月约¥29，团队版年付¥850相当于每月约¥70。长期使用可选年付。",
+          "AI_FAQ_QUESTION_5": "如何导入订阅链接？",
+          "AI_FAQ_ANSWER_5": "在对应客户端中找到订阅或配置导入入口，粘贴订阅链接并更新，客户端会自动获取节点列表。导入后建议测试延迟并选择合适线路。",
+          "AI_CLOSING_TITLE": "选对套餐轻松加速",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，按客户端文档完成订阅配置即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ccaaii.cn",
+    "host": "ccaaii.cn"
+  },
+  "file_hashes": {
+    "index.html": "60e27f8c68b7fb43b67bbdab34850ce76d82f2163a6ac7dfe06e61923da58767",
+    "sitemap.xml": "f59a31a7d0803500ac9af539308f8a02025375c833d369fc20ce2c03369688f2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f44f8495d2b8e6fb986b7e7f9d83c17adc36fb1aec5a42d2097dffad17198b6b",
+    "robots.txt": "d0942e938393149da0223a59fd52100c9cb915e1ade6d5112a7606ab5fe31a3f",
+    "305e7d761c121d6ffc8a16430ef27007.txt": "c22f6b2adca3acd68b80ef2ebb4d1123b893554b033f47024d4c5c5524cace2e"
+  },
+  "revision": "86f8d213afe560b956c8c1f03118031d3f7a75fe6ad543dac716424f4e5609b8"
+}
